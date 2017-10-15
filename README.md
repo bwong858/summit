@@ -1,6 +1,6 @@
-# Larynx
+# Summit
 
-Realtime audio, text, and video communication platform with cherries on top.
+Realtime video, audio, and text communication platform with cherries on top.
 
 ## Team
 
@@ -8,10 +8,6 @@ Realtime audio, text, and video communication platform with cherries on top.
 - Brian Wong
 - Scott Yoon
 - Priyanka Shah
-
-## Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
 
 ## Contributing
 
@@ -22,8 +18,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
+    1. [Installing Dependencies](#installing-system-dependencies)
 
 ## Usage
 
